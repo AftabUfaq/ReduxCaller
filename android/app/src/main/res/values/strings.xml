@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialerApp</string>
+    <string name="hang_up">Hang up</string>
+    <string name="answer">Answer</string>
+    <string name="channel_name">Notification Channel</string>
+    <string name="channel_description">Notification Description</string>
+</resources>
+
